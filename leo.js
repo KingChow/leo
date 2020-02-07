@@ -1,6 +1,6 @@
-let App = require('./app'),
-    Router = require('./router'),
-    Static = require('./static');
+const App = require('./app')
+const Router = require('./router')
+const Static = require('./static')
 
 module.exports = leo = function () {
     let app = new App();
