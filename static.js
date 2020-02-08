@@ -1,7 +1,7 @@
 const path = require('path')
 const send = require('send')
 
-let Router = require('./router'),
+const Router = require('./router'),
     //send = require('./send'),
     cfg = require('./defaultConfig').staticOption;
 

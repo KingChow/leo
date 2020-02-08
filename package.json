@@ -1,5 +1,5 @@
 {
-  "name": "leo",
+  "name": "leo-core",
   "version": "1.0.0",
   "description": "",
   "main": "leo.js",
@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "send": "^0.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KingChow/leo.git"
   }
 }
