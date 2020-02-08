@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "send": "^0.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KingChow/leo.git"
   }
 }
