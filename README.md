@@ -16,16 +16,12 @@ $ npm install leo-core
 
 ## API
 
-```
+```javascript
 const leo = require('leo-core')
 
 const app = leo()
-
 leo.listen(xxxx,callback)
-
 leo.get('/',(req,res)=>{
-    
     res.end('Hello leo.')
-    
 })
 ```
