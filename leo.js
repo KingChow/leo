@@ -15,4 +15,3 @@ leo.Router = Router;
 leo.static = function (staticPath, option) {
     return new Static(staticPath, option);
 };
-leo.customConfig = null;
