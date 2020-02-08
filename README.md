@@ -14,4 +14,13 @@ Installation is done using the npm install command:
 $ npm install leo-core
 ```
 
-hello
+## API
+
+```
+const leo = require('leo-core')
+const app = leo()
+leo.listen(xxxx,callback)
+leo.get('/',(req,res)=>{
+    res.end('Hello leo.')
+})
+```
