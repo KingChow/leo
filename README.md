@@ -10,4 +10,6 @@ Before installing, download and install Node.js. Node.js 10.0 or higher is requi
 
 Installation is done using the npm install command:
 
+```
 $ npm install leo-core
+```
