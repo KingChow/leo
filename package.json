@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "send": "^0.17.1"
+    "send": "^0.19.0"
   },
   "repository": {
     "type": "git",
